@@ -1,2 +1,3 @@
-# bhargavi
-This is my first repository.
+# First repository
+This is my first git repository.
+Author- Shetty Bhargavi
